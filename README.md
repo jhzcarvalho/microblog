@@ -1,2 +1,2 @@
-# microblog
-Built with the intention of learing flask
+# Microblog
+  Built with the intention of learning flask
