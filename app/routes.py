@@ -28,8 +28,3 @@ def autenticar():
     else:
         flash("Dados inválidos")
         return redirect("/login")
-
-
-@app.route("/api")
-def api():
-    return {"nome": "João", "idade": "26"}
